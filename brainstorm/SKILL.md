@@ -1,6 +1,6 @@
 ---
 name: brainstorm
-description: "You MUST use this before any creative work - creating features, building components, adding functionality, or modifying behavior. Explores user intent before especification."
+description: "Explores user intent through structured dialogue before specification. Covers creative work like creating features, building components, adding functionality, or modifying behavior."
 ---
 
 # Brainstorming Ideas Into Clarity
