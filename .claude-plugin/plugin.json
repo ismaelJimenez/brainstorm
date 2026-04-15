@@ -1,7 +1,7 @@
 {
   "name": "brainstorm",
   "description": "A collaborative brainstorming skill that turns ideas into clarity. Guides you through structured dialogue — exploring project context, asking focused questions one at a time, proposing approaches with trade-offs, and producing approved brainstorm documents ready for specification.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": {
     "name": "Ismael Jimenez"
   },
