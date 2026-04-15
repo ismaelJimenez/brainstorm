@@ -17,14 +17,10 @@ The workflow:
 
 ## Installation
 
-Install as a plugin:
+Install with [Summon](https://github.com/ai-summon/summon):
 
-```bash
-# Claude Code
-claude plugin add brainstorm
-
-# Copilot CLI
-copilot plugin add brainstorm
+```
+summon install brainstorm
 ```
 
 ## Usage
